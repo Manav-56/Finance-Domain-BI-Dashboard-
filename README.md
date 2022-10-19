@@ -1,3 +1,9 @@
+![executive view](https://user-images.githubusercontent.com/71647395/196797565-570204f3-3e81-485e-a30c-438dbdb79ccf.PNG)
+![finance](https://user-images.githubusercontent.com/71647395/196797575-76b41c14-e1a6-4276-8638-899e1fef60bc.PNG)
+![home](https://user-images.githubusercontent.com/71647395/196797579-64767a52-6c22-43ec-aa13-dbbbf0487f7a.PNG)
+![marketing](https://user-images.githubusercontent.com/71647395/196797586-ce0a75f5-8657-4de2-9cca-3859dcfea93a.PNG)
+![sales](https://user-images.githubusercontent.com/71647395/196797593-43ac032e-67ee-4c5d-a6ab-1024eaded45c.PNG)
+![supply_chain_view](https://user-images.githubusercontent.com/71647395/196797599-19cdb9bf-61d0-4070-8be1-5d68c1eaabf1.PNG)
 # Finance-Domain-BI-Deshboard-
 Steps:
 1) Extracted the data Into MySQL, created a database, and made connections between them, finally Imported data to PowerBi data sets, and ETL processes from the MySQL database - a great opportunity for me to revise the SQL commands.
