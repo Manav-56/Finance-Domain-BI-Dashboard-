@@ -2,19 +2,19 @@
 Steps:
 1) Extracted the data Into MySQL, created a database, and made connections between them, finally Imported data to PowerBi data sets, and ETL processes from the MySQL database - a great opportunity for me to revise the SQL commands.
 
-2)Did Data wrangling, Data Cleaning, Data modeling, and finally created amazing Dashboards.
-Data modeling with snowflake scheme across > 10 tables
+2) Did Data wrangling, Data Cleaning, Data modeling, and finally created amazing Dashboards.
+   Data modeling with snowflake scheme across > 10 tables
 
 3) Creating more (and really a lot more) calculated measures using DAX formulas
 
 4) Dashboarding including views for 4 different target audiences - Finance, Sales, SupplyChain, Executive (For upper management people like CEO etc)
 
-5) Incorporating stakeholder feedback during UAT - it really took some effort to think of how and what to present given the limited real estate on a single view. Thankfully, we could make use of tooltip functionality to create supplemental views!
+5) Incorporating stakeholder feedback during UAT - it really took some effort to think of how and what to present given the limited real estate on a single    view. Thankfully, we could make use of tooltip functionality to create supplemental views!
 
 6) Deploying the solution via PowerBI web service
 
-7)The first time Added a Navigation bar for all pages and Gave it a Dynamic Website look ...
-love this end-to-end project which involves:
+7) The first time Added a Navigation bar for all pages and Gave it a Dynamic Website look ...
+   love this end-to-end project which involves:
 
 
 One Major takeaway from the project I learned is, that it's not about the tool, it is about solving the problem.
