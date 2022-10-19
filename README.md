@@ -17,8 +17,8 @@ Steps:
    love this end-to-end project which involves:
 
 
-**One Major takeaway from the project I learned is, that it's not about the tool, it is about solving the problem.
-**
+One Major takeaway from the project I learned is, that it's not about the tool, it is about solving the problem.
+
 𝗟𝗲𝗮𝗿𝗻𝘁 𝗧𝗲𝗰𝗵 𝘀𝘁𝗮𝗰𝗸𝘀
 
 ➦ SQL
