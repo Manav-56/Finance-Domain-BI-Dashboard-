@@ -4,7 +4,7 @@
 ![supply_chain_view](https://user-images.githubusercontent.com/71647395/196797975-9aa35ead-24bd-461f-ab20-0fb6e354077e.PNG)
 ![executive view](https://user-images.githubusercontent.com/71647395/196797998-6c4be220-3569-47e3-98e3-315b46e8b7b3.PNG)
 
-# Finance-Domain-BI-Deshboard-
+# Finance-Domain-BI-Dashboard-
 Steps:
 1) Extracted the data Into MySQL, created a database, and made connections between them, finally Imported data to PowerBi data sets, and ETL processes from the MySQL database - a great opportunity for me to revise the SQL commands.
 
