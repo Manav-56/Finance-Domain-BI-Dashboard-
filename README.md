@@ -1,3 +1,5 @@
+Bi dashboard for 4 distinct target audiences: finance, sales,marketing, supply chain, and executives (For upper management people like CEO etc)
+
 ![home](https://user-images.githubusercontent.com/71647395/196797868-b83d1fda-63ec-47ea-a82c-a337927d84c0.PNG)
 ![marketing](https://user-images.githubusercontent.com/71647395/196797896-cddac2f1-7128-4045-b7b8-55d74e7cc323.PNG)
 ![sales](https://user-images.githubusercontent.com/71647395/196797943-4f71528b-3f32-4675-8490-599534c30853.PNG)
